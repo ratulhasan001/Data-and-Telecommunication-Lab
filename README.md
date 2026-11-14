@@ -1,4 +1,4 @@
-# data-communication-lab
+# Data and Telecommunication Lab
 
 MATLAB scripts from the Data and Telecommunication sessional (lab) course of the B.Sc. in Computer Science and Engineering at BAUET. The first two labs introduce MATLAB itself (loops, conditionals, matrices and plotting). Labs 3 and 4 implement and plot digital line-coding schemes: unipolar NRZ and RZ, polar NRZ-L and NRZ-I, and bipolar AMI and pseudoternary encoding.
 
